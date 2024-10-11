@@ -1,1 +1,0 @@
-some sample text for conflicting file line 2
